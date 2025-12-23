@@ -1,4 +1,4 @@
-# AI
+# Artificial Intelligence
 
 A small repository where I study modern AI by rebuilding its primitives from first principles in Rust.
 
