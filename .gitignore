@@ -1,0 +1,12 @@
+# Debug output
+
+builds/target
+
+# Future Folders and, Files
+
+builds/src/main.rs
+builds/src/attention_from_scratch
+builds/src/math_primitives
+builds/src/mlp_from_scratch
+builds/src/transformer_block
+builds/tests
